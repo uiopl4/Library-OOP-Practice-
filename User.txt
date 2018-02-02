@@ -1,0 +1,6 @@
+1//Kim//admin
+2//Lee//student
+3//Park//student
+4//Yang//admin
+5//Hong//student
+6//Son//student
